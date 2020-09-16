@@ -19,7 +19,8 @@ case $word in
 *)
                     echo "I dont know what you've entered"
                     ;;
-   
+
+		   echo "end the prog" 
 esac
 
                       
